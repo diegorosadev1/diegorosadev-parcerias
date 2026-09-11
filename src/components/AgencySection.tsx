@@ -6,7 +6,7 @@ export const AgencySection: React.FC = () => {
   const partnerUrl = getWhatsAppPartnerUrl();
 
   return (
-    <section id="para-agencias" className="py-16 md:py-24 relative">
+    <section id="para-agencias" className="py-16 md:py-24 relative ">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Main Distinct Container with Purple/Indigo Dark Gradient */}

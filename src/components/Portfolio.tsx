@@ -31,7 +31,7 @@ export const Portfolio: React.FC = () => {
   };
 
   return (
-    <section id="para-agencias" className="pt-12 md:pt-16 pb-0 relative bg-[#F7F7FA]">
+    <section id="para-agencias" className="pt-12 md:pt-16 pb-0 relative bg-[#fff]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-6 mb-10 sm:mb-14">
         
         {/* Main "PARA AGÊNCIAS" Rounded Banner matching image.png */}
